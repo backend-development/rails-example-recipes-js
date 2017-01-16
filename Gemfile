@@ -10,6 +10,11 @@ gem 'sqlite3'
 # ======== Asset Pipeline ===========
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
+# tether is used for bootstrap tooltips
+source 'https://rails-assets.org' do
+  gem 'rails-assets-tether', '>= 1.1.0'
+end
+
 gem 'bootstrap'
 gem 'bootstrap_form'
 # gem 'autoprefixer-rails'
@@ -21,6 +26,9 @@ gem 'uglifier', '>= 1.3.0'
 gem 'jquery-rails'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 # gem 'turbolinks'
+
+
+
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.0'
