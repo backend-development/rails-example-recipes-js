@@ -19,6 +19,6 @@ You will be asked to
 * explore the unobstrusive javascript created by the rails scaffold
 * configure the app to use EcmaScript 6 (ES6)
 * write your own nobstrusive javascript that calls a ES6 class
-* switch on Turbolinks
 * Use AJAX to create and "inline editing form"
+* switch on Turbolinks
 
