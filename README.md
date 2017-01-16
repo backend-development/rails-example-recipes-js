@@ -22,3 +22,5 @@ You will be asked to
 * Use AJAX to create and "inline editing form"
 * switch on Turbolinks
 
+but for the details really read
+http://localhost:3000/todo.html  !!!
